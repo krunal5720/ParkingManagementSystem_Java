@@ -1,0 +1,10 @@
+Report : Fri Aug 19 18:34:23 EDT 2022 To Fri Aug 19 18:39:53 EDT 2022
+-------------------Total Money Collection Of The Day is = 100.0---------------------
+-------------------Total Number of  Cars Parked is = 1.0-----------------------------
+Details Of Parked cars details
+-------------------------------------
+Driver Name: kavan
+Car NumberPlate: kv123
+Driver Contact NUmber: 9090
+Parking Number Occupied:35
+Total Charges:100.0
